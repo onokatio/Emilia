@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neovim": "^4.7.0"
+    "neovim": "^4.9.0"
   }
 }
