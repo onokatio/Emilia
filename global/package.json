@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@secretlint/secretlint-rule-no-dotenv": "^2.1.0",
+    "@secretlint/secretlint-rule-no-homedir": "^2.1.0",
+    "@secretlint/secretlint-rule-no-k8s-kind-secret": "^2.1.0",
+    "@secretlint/secretlint-rule-preset-recommend": "^2.1.0",
+    "@secretlint/secretlint-rule-secp256k1-privatekey": "^2.1.0",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
     "atcoder-cli": "^2.1.0",
     "secretlint": "^2.1.0",
