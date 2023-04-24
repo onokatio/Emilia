@@ -17,7 +17,7 @@
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
     "atcoder-cli": "^2.1.0",
     "secretlint": "^2.1.0",
-    "textlint": "^11.7.6",
+    "textlint": "^13.3.2",
     "textlint-plugin-html": "^0.2.0",
     "textlint-plugin-jsx": "^1.0.5",
     "textlint-plugin-latex2e": "^1.0.0",
