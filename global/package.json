@@ -16,7 +16,7 @@
     "@secretlint/secretlint-rule-secp256k1-privatekey": "^2.1.0",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
     "atcoder-cli": "^2.1.0",
-    "secretlint": "^2.1.0",
+    "secretlint": "^2.2.0",
     "textlint": "^11.7.6",
     "textlint-plugin-html": "^0.2.0",
     "textlint-plugin-jsx": "^1.0.5",
